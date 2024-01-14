@@ -3,7 +3,7 @@
 
 ## Performance
 ```
-<h1>Bootstarap</h1>
+<h1>Lighthouse</h1>
 ```
 
 
@@ -11,7 +11,7 @@
 ```
 <html lang="en">
         <title>Page title</title>
-        <h1>Bootstarap</h1>
+        <h1>Lighthouse</h1>
 </html>
 ```
 
@@ -20,7 +20,7 @@
 ```
 <!doctype html>
 <meta charset="utf-8">
-        <h1>Bootstarap</h1>
+        <h1>Lighthouse</h1>
 ```
 
 
@@ -29,7 +29,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Page title</title>
 <meta name="description" content="description">
-<h1>Bootstarap</h1>
+<h1>Lighthouse</h1>
 ```
 
 
@@ -41,6 +41,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="description">
     <title>Page title</title>
-        <h1>Bootstarap</h1>
+        <h1>Lighthouse</h1>
 </html>
 ```
