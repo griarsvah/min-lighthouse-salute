@@ -1,4 +1,4 @@
-# Lighthouse - Для прохождения нужно чтобы Performance был выполнен
+# Lighthouse
 
 
 ## Performance
@@ -7,7 +7,7 @@
 ```
 
 
-## Accessibility
+## Accessibility-Для прохождения нужно чтобы Performance был выполнен
 ```
 <html lang="en">
         <title>Page title</title>
@@ -16,7 +16,7 @@
 ```
 
 
-## Best Practices - Нужно HTTPS
+## Best Practices-Для прохождения нужно чтобы Performance был выполнен+Нужно HTTPS
 ```
 <!doctype html>
 <meta charset="utf-8">
@@ -24,7 +24,7 @@
 ```
 
 
-## SEO
+## SEO-Для прохождения нужно чтобы Performance был выполнен
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Page title</title>
@@ -33,7 +33,7 @@
 ```
 
 
-## Min code salute(need HTTPS)
+## Минимальный код для салюта -Для прохождения нужно чтобы Performance был выполнен+Нужно HTTPS
 ```
 <!doctype html>
 <html lang="en">
