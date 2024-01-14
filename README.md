@@ -1,49 +1,46 @@
-Top<a name="top"></a>
-===================
+# Lighthouse - Для прохождения нужно чтобы Performance был выполнен
 
-# h1
-1. HTML
-2. Favicon
-3. Validator HTML
 
-## h2
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+## Performance
+```
+<h1>Bootstarap</h1>
+```
 
-### h3
-<details>
-  <summary>Resources</summary>
 
-  1. This site was built using [validator.w3.org](https://validator.w3.org/)
-  2. This site was built using [GitHub Pages](https://pages.github.com/)
-  3. 2. This site was built using [GitHub](https://github.com/)
-  4. This site was built using [GitHub docs formatting]https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-</details>
+## Accessibility
+```
+<html lang="en">
+        <title>Page title</title>
+        <h1>Bootstarap</h1>
+</html>
+```
 
-#### h4
-> Hi github
 
-##### h5
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+## Best Practices - Нужно HTTPS
+```
+<!doctype html>
+<meta charset="utf-8">
+        <h1>Bootstarap</h1>
+```
 
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
 
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+## SEO
+```
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page title</title>
+<meta name="description" content="description">
+<h1>Bootstarap</h1>
+```
 
----
-[top](#top)
-section_title<a name="top"></a>
 
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+## Min code salute(need HTTPS)
+```
+<!doctype html>
+<html lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="description">
+    <title>Page title</title>
+        <h1>Bootstarap</h1>
+</html>
+```
