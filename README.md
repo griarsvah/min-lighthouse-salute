@@ -77,7 +77,7 @@
 ```
 
 Нужны две картинки 144 или 192 для маскировочного, а так же 512
-Про маскировочный можно почитать [тут]([https://maskable.app/editor](https://developer.chrome.com/docs/lighthouse/pwa/maskable-icon-audit?utm_source=lighthouse&utm_medium=devtools&hl=ru)https://developer.chrome.com/docs/lighthouse/pwa/maskable-icon-audit?utm_source=lighthouse&utm_medium=devtools&hl=ru), а сделать [тут](https://maskable.app/editor)
+Про маскировочный можно почитать [тут]([https://maskable.app/editor](https://developer.chrome.com/docs/lighthouse/pwa/maskable-icon-audit?utm_source=lighthouse&utm_medium=devtools&hl=ru), а сделать [тут](https://maskable.app/editor)
 
 
 ## Publisher Ads
