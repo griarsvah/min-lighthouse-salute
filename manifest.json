@@ -28,5 +28,14 @@
       "sizes": "512x512",
       "purpose": "any"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "https://griarsvah.github.io/PWABuilder/images/maskable/icon_x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "form_factor": "narrow",
+      "label": "Homescreen of Awesome App"
+    }
   ]
 }
