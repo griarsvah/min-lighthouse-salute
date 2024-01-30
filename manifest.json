@@ -46,8 +46,7 @@
       "form_factor": "wide",
       "label": "Homescreen of Awesome App"
     }
-  ]
-  ,"protocol_handlers": [
+  ],"protocol_handlers": [
     {
       "protocol": "web+jngl",
       "url": "/lookup?type=%s"
