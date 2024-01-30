@@ -32,17 +32,10 @@
   ],
   "screenshots": [
     {
-      "src": "https://griarsvah.github.io/PWABuilder/images/android/launchericon-144.png",
+      "src": "https://image-placeholder.com/images/actual-size/320x320.png",
       "type": "image/png",
-      "sizes": "144x144",
+      "sizes": "320x320",
       "form_factor": "narrow",
-      "label": "Homescreen of Awesome App"
-    },
-    {
-      "src": "https://griarsvah.github.io/PWABuilder/images/maskable/icon_x384.png",
-      "type": "image/png",
-      "sizes": "384x384",
-      "form_factor": "wide",
       "label": "Homescreen of Awesome App"
     }
   ]
