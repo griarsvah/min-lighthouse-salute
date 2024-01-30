@@ -10,6 +10,7 @@
   "id": "/?homescreen=1",
   "start_url": "/?homescreen=1",
   "orientation": "any",
+  "display_override": ["fullscreen", "standalone", "minimal-ui", "standalone", "window-controls-overlay"],
   "prefer_related_applications": false,
   "icons": [
     {
