@@ -9,6 +9,7 @@
   "display": "fullscreen",
   "id": "/?homescreen=1",
   "start_url": "/?homescreen=1",
+  "orientation": "any",
   "prefer_related_applications": false,
   "icons": [
     {
