@@ -50,11 +50,11 @@
   ],"protocol_handlers": [
     {
       "protocol": "web+jngl",
-      "url": "https://griarsvah.github.io/min-lighthouse-salute//lookup?type=%s"
+      "url": "https://griarsvah.github.io/min-lighthouse-salute/lookup?type=%s"
     },
     {
       "protocol": "web+jnglstore",
-      "url": "https://griarsvah.github.io/min-lighthouse-salute//shop?for=%s"
+      "url": "https://griarsvah.github.io/min-lighthouse-salute/shop?for=%s"
     }
   ]
 }
