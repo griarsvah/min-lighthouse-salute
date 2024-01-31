@@ -175,6 +175,28 @@ Need help? [Read](https://learn.microsoft.com/en-us/microsoft-edge/progressive-w
 В разделе "Protocol Handlers" вижу восклицательный знак
 Define protocol handlers in the manifest to register your app a handler for custom protocols when your app is intalled.
 Need help? Read [URL protocol handler registration for PWAs.](https://web.dev/url-protocol-handler/?utm_source=devtools)
+
+---
+manifest.json:1 Manifest: property 'url' ignored, should be within scope of the manifest.
+manifest.json:1 Manifest: protocol_handlers entry ignored, required property 'url' is invalid.
+---
+```
+manifest.webmanifest
+
+"protocol_handlers": [
+    {
+      "protocol": "web+jngl",
+      "url": "/lookup?type=%s"
+    },
+    {
+      "protocol": "web+jnglstore",
+      "url": "/shop?for=%s"
+    }
+  ]
+```
+
+В "url" путь прописывать полный
+
 ```
 manifest.webmanifest
 
