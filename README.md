@@ -139,10 +139,12 @@ manifest.webmanifest
 }
 ```
 
- - Пропала ошибка когда добавили иконку с ключём и значением "form_factor": "narrow",
+Пропала ошибка когда добавили иконку с ключём и значением "form_factor": "narrow",
 Richer PWA Intall UI won't be available on desktop. Please add at least one screenshot with the form_factor set to wide.
 
- - В разделе "Presentation" пустое поле "Orientation"
+---
+
+В разделе "Presentation" пустое поле "Orientation"
 Добавляю "orientation": "any",
 ```
 manifest.webmanifest
