@@ -8,7 +8,7 @@
   "background_color": "#FFFFFF",
   "display": "fullscreen",
   "id": "/?homescreen=1",
-  "start_url": "/?homescreen=1",
+  "start_url": "https://griarsvah.github.io/min-lighthouse-salute/",
   "orientation": "any",
   "display_override": ["fullscreen", "standalone", "minimal-ui", "standalone", "window-controls-overlay"],
   "prefer_related_applications": false,
