@@ -200,3 +200,15 @@ index.html
 <h1>Lighthouse - Publisher Ads</h1>
 <script async src="tag/js/gpt.js"></script>
 ```
+
+---
+
+```
+chrome://whats-new/
+chrome://web-app-internals/
+chrome://restart
+chrome://apps/
+
+"narrow - узкий"
+"wide - широкий"
+```
