@@ -1,17 +1,17 @@
 {
-  "manifest_version": 3,
   "name": "Minimal Manifest",
   "short_name": "MM",
-  "version": "1.0.0",
   "description": "A basic example extension with only required keys",
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
   "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui", "standalone", "window-controls-overlay"],
   "id": "https://griarsvah.github.io/min-lighthouse-salute/",
   "start_url": "https://griarsvah.github.io/min-lighthouse-salute/",
   "orientation": "any",
-  "display_override": ["fullscreen", "standalone", "minimal-ui", "standalone", "window-controls-overlay"],
   "prefer_related_applications": false,
+  "manifest_version": 3,
+  "version": "3.0.0",
   "icons": [
     {
       "src": "https://griarsvah.github.io/PWABuilder/images/android/launchericon-144.png",
@@ -50,11 +50,11 @@
   ],"protocol_handlers": [
     {
       "protocol": "web+jngl",
-      "url": "/lookup?type=%s"
+      "url": "https://griarsvah.github.io/min-lighthouse-salute//lookup?type=%s"
     },
     {
       "protocol": "web+jnglstore",
-      "url": "/shop?for=%s"
+      "url": "https://griarsvah.github.io/min-lighthouse-salute//shop?for=%s"
     }
   ]
 }
