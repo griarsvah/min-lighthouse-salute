@@ -233,6 +233,9 @@ chrome://web-app-internals/
 chrome://restart
 chrome://apps/
 
+chrome://web-app-internals/
+chrome://serviceworker-internals/
+
 "narrow - узкий"
 "wide - широкий"
 ```
