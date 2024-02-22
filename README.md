@@ -228,6 +228,17 @@ index.html
 ---
 
 ```
+page is not served from a secure origin
+
+chrome://flags/#bypass-app-banner-engagement-checks
+chrome://flags/#unsafely-treat-insecure-origin-as-secure
+
+
+https://fullstackoasis.com/pwa-2/pwa.html
+
+https://developer.chrome.com/docs/devtools/security?hl=ru
+
+
 chrome://whats-new/
 chrome://web-app-internals/
 chrome://restart
