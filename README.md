@@ -239,6 +239,9 @@ https://fullstackoasis.com/pwa-2/pwa.html
 https://developer.chrome.com/docs/devtools/security?hl=ru
 
 
+
+chrome://terms/
+
 chrome://whats-new/
 chrome://web-app-internals/
 chrome://restart
