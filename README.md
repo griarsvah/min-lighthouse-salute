@@ -240,15 +240,9 @@ https://developer.chrome.com/docs/devtools/security?hl=ru
 
 
 
-chrome://terms/
 
-chrome://whats-new/
-chrome://web-app-internals/
-chrome://restart
-chrome://apps/
+chrome://about/
 
-chrome://web-app-internals/
-chrome://serviceworker-internals/
 
 "narrow - узкий"
 "wide - широкий"
