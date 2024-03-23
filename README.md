@@ -188,11 +188,11 @@ manifest.webmanifest
 "protocol_handlers": [
     {
       "protocol": "web+jngl",
-      "url": "/lookup?type=%s"
+      "url": "(https://griarsvah.github.io/)lookup?type=%s"
     },
     {
       "protocol": "web+jnglstore",
-      "url": "/shop?for=%s"
+      "url": "(https://griarsvah.github.io/)shop?for=%s"
     }
   ]
 ```
@@ -230,10 +230,6 @@ index.html
 ```
 page is not served from a secure origin
 
-chrome://flags/#bypass-app-banner-engagement-checks
-chrome://flags/#unsafely-treat-insecure-origin-as-secure
-
-
 https://fullstackoasis.com/pwa-2/pwa.html
 
 https://developer.chrome.com/docs/devtools/security?hl=ru
@@ -242,8 +238,4 @@ https://developer.chrome.com/docs/devtools/security?hl=ru
 
 
 chrome://about/
-
-
-"narrow - узкий"
-"wide - широкий"
 ```
